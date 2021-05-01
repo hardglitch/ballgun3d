@@ -21348,5 +21348,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   block: {fileID: 4279655973891627499, guid: 866f9c176bc0cba41b46e636e613a474, type: 3}
   spawnPoint: {fileID: 2304908113353117891}
-  towerSize: 20
+  towerSize: 50
   distanceBetweenBlocks: 0.15
